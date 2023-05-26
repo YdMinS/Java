@@ -3,7 +3,7 @@ package PackjoonTest;
 import java.util.Scanner;
 import java.util.Arrays;
 
-public class Twoxn타일링11727 {
+public class Twoxn타일링11726 {
     private static long[] s = new long[1002];
     private static void count(int n){
         if(s[n]==-1)
